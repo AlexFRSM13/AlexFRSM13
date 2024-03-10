@@ -3,8 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Implantação Pleno II
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web Full Stack JavaScript.
-- 🧑🏻‍🎓 Estudando HTML, CSS, JavaScript, React.JS e Node.JS na RocketSeat na Formação Full Stack Explorer.
+- 🌱 Atualmente estou aprendendo Desenvolvimento Back-End com Node.JS na RocketSeat.
 
 <div>
   <a href="https://github.com/AlexFRSM13">
@@ -14,16 +13,14 @@
 ## Ferramentas e Tecnologias que estou estudando
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="AlexFRSM13 - HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="AlexFRSM13 - CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="AlexFRSM13 - JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="AlexFRSM13 - Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="AlexFRSM13 - GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="AlexFRSM13 - React.JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="AlexFRSM13 - Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="AlexFRSM13 - Node.JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="AlexFRSM13 - Express" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40" alt="AlexFRSM13 - Jest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" alt="AlexFRSM13 - Insomnia" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="AlexFRSM13 - SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" width="40" height="40" alt="AlexFRSM13 - Knex.JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="AlexFRSM13 - Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="AlexFRSM13 - GitHub" />
 </div>
 
 ## Próximos passos

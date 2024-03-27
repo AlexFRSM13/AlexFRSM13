@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Implantação Pleno II
-- 🌱 Atualmente estou aprendendo Desenvolvimento Back-End com Node.JS na RocketSeat.
+- 🌱 Atualmente estou aprendendo Desenvolvimento Back-End Java.
 
 <div>
   <a href="https://github.com/AlexFRSM13">
@@ -13,24 +13,19 @@
 ## Ferramentas e Tecnologias que estou estudando
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="AlexFRSM13 - JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="AlexFRSM13 - TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="AlexFRSM13 - Node.JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="AlexFRSM13 - Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="40" height="40" alt="AlexFRSM13 - Fastify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="AlexFRSM13 - Nest.JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" alt="AlexFRSM13 - Insomnia" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="AlexFRSM13 - SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="AlexFRSM13 - PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" width="40" height="40" alt="AlexFRSM13 - Knex.JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" alt="AlexFRSM13 - ESLint" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="AlexFRSM13 - Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="AlexFRSM13 - Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" height="40" alt="AlexFRSM13 - Jest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="40" height="40" alt="AlexFRSM13 - Vitest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" alt="AlexFRSM13 - Swagger" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="AlexFRSM13 - Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="AlexFRSM13 - GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - TomCat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="80" height="80" alt="AlexFRSM13 - IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="80" height="80" alt="AlexFRSM13 - GitHub" />
 </div>
 
 ## Contatos:
